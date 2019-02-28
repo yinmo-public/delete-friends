@@ -10,7 +10,7 @@
 
 The linepy module requires Python 3.x  [download](https://www.python.org/downloads/). 
 
-## Updates 02/28/2019
+## Update 02/28/2019
 ```
 * Fix logic
 * Add English version
