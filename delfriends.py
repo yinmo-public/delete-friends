@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from linepy import *
+from time import sleep
 yinmo = LINE ()
 int1 = len(yinmo.getAllContactIds())
 if int1 == 0:
@@ -10,6 +11,7 @@ else:
             pass
         try:
             print("刪除好友 " + yinmo.getContact(contact).displayName)
+            sleep(0.5)
             yinmo.deleteContact(contact)
         except:
             pass
