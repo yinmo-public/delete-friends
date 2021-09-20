@@ -10,11 +10,8 @@
 
 The linepy module requires Python 3.x  [download](https://www.python.org/downloads/). 
 
-## Update 02/28/2019
-```
-* Fix logic
-* Add English version
-```
+## Update 2021
+⚠ DO NOT USE THIS CODE OR YOU WILL GET BAN CHAT
 
 ## Warnings
 ```
